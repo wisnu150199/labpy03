@@ -65,6 +65,7 @@
 	![alt text](333.png)
 	
 	TOTAL untuk mengakumulasikan hasil dari program operator yang ada di statment IF.
+	
 	Fungsi print() berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 	
 	![alt text](444.png)
