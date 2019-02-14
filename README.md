@@ -20,6 +20,11 @@
 	Variabel x berfungsi untuk menampung indeks, dan fungsi range() berfungsi untuk membuat list dengan range yang kita tentukan.
 	Fungsi print() berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 	
+	
+	HASIL 1:
+	
+	![alt text](hasil1.png)
+	
 
 
 #Latihan2
@@ -43,6 +48,11 @@
 	Berikut adalah contoh programnya :
 	
 	![alt text](22.png)
+	
+	
+	HASIL 2 :
+	
+	![alt text](hasil2.png)
 	
 
 
@@ -69,5 +79,10 @@
 	Fungsi print() berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 	
 	![alt text](444.png)
+	
+	
+	HASIL 3 :
+	
+	![alt text](hasil3.png)
 
 
