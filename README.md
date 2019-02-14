@@ -1,3 +1,3 @@
 # labpy03
 
-![alt text](pl1.png)
+![alt text](latihan_2)(pl1.png)
