@@ -45,7 +45,7 @@
 	dan menentukan kapan perulangan berhenti. Jika pengguna menjawab 0 (Nol) perulangan akan terhenti.
 	Setelah selesai mengulang, cetak bilangan terbesar dari beberapa data yang di inputkan.
 	
-	Berikut adalah contoh programnya :
+	Berikut adalah contoh :
 	
 	![alt text](22.png)
 	
