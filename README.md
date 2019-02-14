@@ -14,17 +14,22 @@
 	perulangan for biasanya digunakan untuk mengulangi kode yang sudah diketahui banyak perulangannya.
 
 	contoh : 
-![alt text](2.png)
+	
+	![alt text](2.png)
 
 	Variabel x berfungsi untuk menampung indeks, dan fungsi range() berfungsi untuk membuat list dengan range yang kita tentukan.
 	Fungsi print() berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 	
+
+
 #Latihan2
 1. print
 
 	Fungsi print() berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 	
-	contoh : ![alt text](11.png)
+	contoh :
+	
+	![alt text](11.png)
 	
 2. while loop
 
@@ -36,8 +41,11 @@
 	Setelah selesai mengulang, cetak bilangan terbesar dari beberapa data yang di inputkan.
 	
 	Berikut adalah contoh programnya :
+	
 	![alt text](22.png)
 	
+
+
 #Program1
 1. for
 
@@ -45,7 +53,7 @@
 
 	![alt text](111.png)
 
-	Variabel i berfungsi untuk menampung indeks, dan fungsi range() berfungsi untuk membuat list dengan range dari 1-10.
+	Variabel x berfungsi untuk menampung indeks, dan fungsi range() berfungsi untuk membuat list dengan range dari 1-10.
 
 	![alt text](222.png)
 
@@ -58,5 +66,7 @@
 	
 	TOTAL untuk mengakumulasikan hasil dari program operator yang ada di statment IF.
 	Fungsi print() berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
+	
+	![alt text](444.png)
 
 
