@@ -1,4 +1,4 @@
-ghgjhgh
+Penjelasan Alur Algoritma
 
 
-![alt text](pl2.png)
+![alt text](program1.png)
